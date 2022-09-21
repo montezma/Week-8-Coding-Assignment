@@ -1,0 +1,40 @@
+@font-face {
+    font-family: MonumentExtended-Black;
+    src: url(MonumentExtended-Regular.woff);
+}
+
+body{
+    font-family: MonumentExtended-Black;
+    background-color: darkgray;
+}
+
+h1 {
+    text-align:center;
+    color: rgb(0, 0, 0);
+    text-shadow:0px 5px 5px rgb(63, 63, 63);
+
+}
+#nav{
+    text-align:right;
+    
+
+}
+h5 {
+    text-align: right;
+}
+ul {
+    text-align:right;
+}
+
+img {
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    filter:drop-shadow(0px 10px 5px black);
+}
+
+h2 {
+    text-align: center;
+    color: black;
+    text-shadow:0px 5px 5px rgb(63, 63, 63);
+}
